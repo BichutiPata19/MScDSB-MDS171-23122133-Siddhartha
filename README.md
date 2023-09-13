@@ -1,7 +1,11 @@
 Name: Siddhartha Sinha   
+
 Class: 1MSc DS B   
+
 Register Number: 23122133
+
 Email: siddhartha.sinha@msds.christuniversity.in
+
 | SL No | Lab Name | Question | Link to Code |
 |---    |---       |---       |---           |
 | 1     | Lab_01   | Write a prograem to print a name "n" times where name & "n" will be user input|<a href="Lab01.ipynb">Lab_01.ipynb</a>|
