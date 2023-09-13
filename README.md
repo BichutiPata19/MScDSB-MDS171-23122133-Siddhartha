@@ -1,4 +1,3 @@
-#Siddhartha Sinha-MSc_DS_B-23122133
 Name: Siddhartha Sinha   
 Class: MSc DS B   
 Register Number: 23122133
