@@ -1,5 +1,5 @@
 Name: Siddhartha Sinha   
-Class: MSc DS B   
+Class: 1MSc DS B   
 Register Number: 23122133
 Email: siddhartha.sinha@msds.christuniversity.in
 | SL No | Lab Name | Question | Link to Code |
