@@ -1,18 +1,7 @@
 # MScDSB-MDS171-23122133 - SIDDHARTHA SINHA
-
-<<<<<<< HEAD
 Name: Siddhartha Sinha   
 Class: 1MSc DS B   
 Register Number: 23122133
-=======
-
-Name: Siddhartha Sinha   
-
-Class: 1MSc DS B   
-
-Register Number: 23122133
-
->>>>>>> c40bb3e2368acb6972a9d25737518c5ddd6430a5
 Email: siddhartha.sinha@msds.christuniversity.in
 
 | SL No | Lab Name | Question | Link to Code |
