@@ -6,7 +6,7 @@ Email: siddhartha.sinha@msds.christuniversity.in
 
 | SL No | Lab Name | Question | Link to Code |
 |---    |---       |---       |---           |
-| 1     | Lab_01   | Write a program to print a name "n" times where the name & the "n" will be user input|<a href="[Lab01](https://github.com/BichutiPata19/MScDSB-MDS171-23122133-Siddhartha/blob/78789088cb3227fcb62fc54ff248f2f6bcd94e94/Lab%20works/Lab01/Lab01.ipynb)">Lab01</a>|
+| 1     | Lab_01   | Write a program to print a name "n" times where the name & the "n" will be user input|<a href="[Lab01](https://github.com/BichutiPata19/MScDSB-MDS171-23122133-Siddhartha/blob/78789088cb3227fcb62fc54ff248f2f6bcd94e94/Lab%20works/Lab01/Lab01.ipynb)">[Lab01](https://github.com/BichutiPata19/MScDSB-MDS171-23122133-Siddhartha/blob/78789088cb3227fcb62fc54ff248f2f6bcd94e94/Lab%20works/Lab01/Lab01.ipynb)</a>|
 | 2     | Lab_02   | Create a function to help Alice from Digiterra convert the number she enters, demonstrating the function with various inputs, including required validations|<a href="Lab02.ipynb">Lab_02.ipynb</a>|
 | 3     | Lab_03   | For a given set of numbers find their descriptive statistics, viz, their mean, minimum, maximum, range, mode & median by NOT using built-in functions|<a href="Lab03.ipynb">Lab_03.ipynb</a>|
 | 4     | Lab_04   | As a data analyst specialist, gather insights from their customers' orders received for Farmers' Harvest in Freshville over time and display them to Emily as she uses our application|<a href="Lab04.ipynb">Lab_04.ipynb</a>|
