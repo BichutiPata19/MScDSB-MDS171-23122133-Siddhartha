@@ -1,0 +1,21 @@
+
+Name:Alice
+Consumer_no.:101256
+Phone_no.:789456123
+Price:$100
+Product:Herbs and Plants
+Name:Bobby
+Consumer_no.:101257
+Phone_no.:987456123
+Price:$200
+Product:Brinjal, Carrots
+Name:Charlie
+Consumer_no.:101258
+Phone_no.:987321456
+Price:$500
+Product:Fertilisers
+Name:Durden
+Consumer_no.:101259
+Phone_no.:654789123
+Price:$150
+Product:Oil seeds
